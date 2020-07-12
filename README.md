@@ -9,5 +9,5 @@ Please message me on my Telegram group once you notice the domain was expired: h
 # Password
 windowzytch
 
-If you can't unlock the archive but the password is the one here, check the archive content for a file named "Password=<password>.txt".
+If you can't unlock the archive but the password is the one here, check the archive content for a file named "Password=(password).txt".
 Still no luck? Open an issue on GitHub.
