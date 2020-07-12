@@ -5,3 +5,9 @@ This is a software repository for my YouTube channel, which you can find by simp
 http://windowzytch.tk
 
 Please message me on my Telegram group once you notice the domain was expired: https://t.me/windowzyt
+
+# Password
+windowzytch
+
+If you can't unlock the archive but the password is the one here, check the archive content for a file named "Password=<password>.txt".
+Still no luck? Open an issue on GitHub.
